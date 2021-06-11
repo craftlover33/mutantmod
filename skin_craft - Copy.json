@@ -320,12 +320,12 @@
   "Addons":
   [{
       "id":1,
-      "nama_add":"SIREN HEAD MOD ADDON",
-      "add_url":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/Siren%20Head%20Addon%20V3.zip",
-      "addB_url":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/SirenHead(b).mcpack",
-      "addR_url":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/SirenHead(R).mcpack",
-      "view_add":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/ad1.png",
-      "des_add":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/adon.html"
+      "nama_add":"ADDON",
+      "add_url":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/addonmutan.zip",
+      "addB_url":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/mutant-creeper-behavior.mcpack",
+      "addR_url":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/mutant-creeper-resource.mcpack",
+      "view_add":"https://mcpedl.com/wp-content/uploads/2016/02/mutant-creatures-3.jpg",
+      "des_add":"https://mcpedl.com/wp-content/uploads/2016/02/mutant-creatures-3.jpg"
     },
      {
       "id":2,
@@ -371,6 +371,15 @@
       "addR_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon2(r).mcpack",
       "view_add":"https://raw.githubusercontent.com/craftlover33/aotskin/main/ad2.png",
       "des_add":"https://raw.githubusercontent.com/craftlover33/aotskin/main/adon.html"
+    },
+	{
+      "id":7,
+      "nama_add":"ADDON",
+      "add_url":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/Siren%20Head%20Addon%20V3.zip",
+      "addB_url":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/SirenHead(b).mcpack",
+      "addR_url":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/SirenHead(R).mcpack",
+      "view_add":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/ad1.png",
+      "des_add":"https://raw.githubusercontent.com/craftlover33/mutantmod/main/adon.html"
     }
   ],
   "Maps":
